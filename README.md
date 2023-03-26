@@ -5,3 +5,4 @@
 *for this,  settings > advanced > reset account*
 
 **If you are setting up for the first time, you must first add the sphinx network to your wallet**
+* [Documentation](https://docs.shardeum.org/network/endpoints)
