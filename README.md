@@ -77,6 +77,10 @@ operator-cli gui start
 * [Faucet with twit](https://faucet-sphinx.shardeum.org/)
 * [Discord Faucet](https://discord.com/channels/933959587462254612/1070780355931541514)
 
+*Type your IP address here https://yournodeIP:8080 ,enter it in the browser and enter it and we'll get to the dashboard section,you will see warnings on the page that opens, but we will skip the warnings and continue and reach the dashboard*
+
+
+
 
 
 
