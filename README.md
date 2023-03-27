@@ -1,5 +1,6 @@
 <h1 align="center">Shardeum Betanet Node Setup </h1>
 *System Requirements*
+
 |  CPU  |    RAM     |     SSD    |  
 |-------|------------|------------|
 |    4  |     16     |    200     |
