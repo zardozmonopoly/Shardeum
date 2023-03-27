@@ -38,7 +38,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 *I leave the ss of the questions you will be asked in the installation, for a clearer understanding*
-In the 3rd ss, you write a password you set and write it down somewhere because we will use that password to enter the dashboard.
+*In the 3rd ss, you write a password you set and write it down somewhere because we will use that password to enter the dashboard*
+*After selecting port 8080, say enter to the incoming questions and pass*
 
 ![Screenshot_1](https://user-images.githubusercontent.com/100621008/227814368-009ddf39-c092-4320-a72b-f69671b038ef.jpg)
 
