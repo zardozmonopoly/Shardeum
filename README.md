@@ -45,11 +45,15 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/100621008/227814590-9f6c6b0c-2afd-4ee0-a6ea-76a963746c5e.jpg)
 
+
 ![Screenshot_4](https://user-images.githubusercontent.com/100621008/227816505-88b4ffeb-9170-4a34-81b7-334336a5bebb.jpg)
+
 
 ![Screenshot_5](https://user-images.githubusercontent.com/100621008/227816513-b184e7e2-713b-4478-bbfe-07626faa5e78.jpg)
 
+
 ![Screenshot_6](https://user-images.githubusercontent.com/100621008/227816529-b84dddd6-b134-4063-8c4b-79e04e3da71a.jpg)
+
 
 ![Screenshot_7](https://user-images.githubusercontent.com/100621008/227816540-96c9ac38-bc7b-4685-b523-b9b967a5a510.jpg)
 
