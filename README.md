@@ -62,7 +62,16 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 ![Screenshot_7](https://user-images.githubusercontent.com/100621008/227816540-96c9ac38-bc7b-4685-b523-b9b967a5a510.jpg)
 
 *When you get the result as in the following ss, the installation is finished without any problems*
+
 ![Screenshot_8](https://user-images.githubusercontent.com/100621008/227817229-6ead9283-d07f-43da-b5ec-efebb5317973.jpg)
+
+*Start Node*
+```
+$HOME/.shardeum/shell.sh
+```
+```
+operator-cli gui start
+```
 
 
 
