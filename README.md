@@ -35,10 +35,9 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 *I leave the ss of the questions you will be asked in the installation, for a clearer understanding*
+![Screenshot_1](https://user-images.githubusercontent.com/100621008/227814368-009ddf39-c092-4320-a72b-f69671b038ef.jpg)
 
 
-![Screenshot_1](https://user-images.githubusercontent.com/100621008/227814157-7803ca83-0383-4960-b669-4b717cadc1e1.jpg
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/100621008/227814201-dad2d78c-4da7-4d59-8afc-6efbad5aa0be.jpg)
 
