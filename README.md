@@ -20,5 +20,16 @@
 sudo apt update && sudo apt upgrade -y
 ```
 *Curl installation*
+```
+sudo apt-get install curl
+```
+*Docker installation*
+```
+sudo apt install docker.io -y
+```
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
+
 
 
