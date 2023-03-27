@@ -79,6 +79,12 @@ operator-cli gui start
 
 *Type your IP address here https://yournodeIP:8080 ,enter it in the browser and enter it and we'll get to the dashboard section,you will see warnings on the page that opens, but we will skip the warnings and continue and reach the dashboard*
 
+*This screen will greet you first and we will need to type the password we just created in the node*
+
+![Screenshot_9](https://user-images.githubusercontent.com/100621008/227820048-8143b73d-1c85-4773-ba48-7a02ca13d11d.jpg)
+
+
+
 
 
 
