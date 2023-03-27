@@ -1,5 +1,8 @@
 <h1 align="center">Shardeum Betanet Node Setup </h1>
 
+![Shardeum](https://user-images.githubusercontent.com/100621008/227815941-a6e67be0-5496-4c01-9d9f-3b5556149fdf.jpg)
+
+
 **System Requirements**
 
 |  CPU  |    RAM     |     SSD    |  
