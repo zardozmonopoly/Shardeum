@@ -1,5 +1,5 @@
 <h1 align="center">Shardeum Betanet Node Setup </h1>
-*System Requirements*
+**System Requirements**
 
 |  CPU  |    RAM     |     SSD    |  
 |-------|------------|------------|
