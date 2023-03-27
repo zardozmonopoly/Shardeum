@@ -15,4 +15,9 @@
 
 ![Screenshot_11](https://user-images.githubusercontent.com/100621008/227813008-6861255d-d594-47f3-9dd8-d5906d939ea2.jpg)
 
+*System Update*
+```
+sudo apt update && sudo apt upgrade -y
+```
+
 
