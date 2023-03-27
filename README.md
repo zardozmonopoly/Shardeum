@@ -72,6 +72,12 @@ $HOME/.shardeum/shell.sh
 ```
 operator-cli gui start
 ```
+*Explorer and wallet operations*
+*first we need SHM token to stake our wallet and we get it by tweeting or from Shardeum discord faucet*
+* [Faucet with twit](https://faucet-sphinx.shardeum.org/)
+* [Discord Faucet](https://discord.com/channels/933959587462254612/1070780355931541514)
+
+
 
 
 
