@@ -97,6 +97,8 @@ operator-cli gui start
 
 ![1679881786355](https://user-images.githubusercontent.com/100621008/227823222-f395000e-f327-4dc8-9a7b-7125d92ff7d8.jpg)
 
+*Nodes can stay on standby for a long time because they are active in sequence. This does not mean that your node is not working...It can become standby after being active, this is not about you but about the operation of the system*
+
 
 
 
