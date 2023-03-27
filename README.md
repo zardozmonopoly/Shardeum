@@ -1,4 +1,8 @@
 <h1 align="center">Shardeum Betanet Node Setup </h1>
+*System Requirements*
+|  CPU  |    RAM     |     SSD    |  
+|-------|------------|------------|
+|    4  |     16     |    200     |
 
 **Firstly, if you have previously set up node, you need to reset your account from your wallet to remove the stake you made from your Metamask wallet**
 
