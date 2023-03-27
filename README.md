@@ -83,6 +83,23 @@ operator-cli gui start
 
 ![Screenshot_9](https://user-images.githubusercontent.com/100621008/227820048-8143b73d-1c85-4773-ba48-7a02ca13d11d.jpg)
 
+*After logging into the dashboard, we need to stake the SHM tokens we receive and we will do the following operations in order*
+
+![1679881735578](https://user-images.githubusercontent.com/100621008/227822785-c5f5d086-e7e8-4cf2-a4b7-6cd1f84c6a0d.jpg)
+
+![1679881648651](https://user-images.githubusercontent.com/100621008/227822828-1bdc1366-1700-4f35-bb85-2823395a5426.jpg)
+
+*The minimum staking rate here is 10 SHM*
+
+![1679881904847](https://user-images.githubusercontent.com/100621008/227823152-e696945a-5b16-4b16-8d86-8783b1ba473d.jpg)
+
+![1679881816713](https://user-images.githubusercontent.com/100621008/227823181-b4fb7455-1879-43d8-8e4d-21fe26f3a63e.jpg)
+
+![1679881786355](https://user-images.githubusercontent.com/100621008/227823222-f395000e-f327-4dc8-9a7b-7125d92ff7d8.jpg)
+
+
+
+
 
 
 
